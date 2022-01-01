@@ -1,4 +1,11 @@
 {
+  "0x7845fCbE28ac19ab7ec1C1D9674E34fdCB4917Db": {
+    "name": "INK",
+    "logo": "INK.png",
+    "erc20": true,
+    "symbol": "INK",
+    "decimals": 18
+  },
   "0xfb37CD27C4E15A05D0Df7d8a4F22e18cb255Ca21": {
     "name": "Couscous",
     "logo": "Couscous.png",
