@@ -1,6 +1,6 @@
 {
   "name": "ubq-contract-metadata",
-  "version": "1.15.5",
+  "version": "1.32.0",
   "description": "A mapping of ubiq contract addresses to broadly accepted icons for those addresses.",
   "main": "index.js",
   "publishConfig": {
@@ -8,7 +8,7 @@
     "access": "public"
   },
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=12.0.0"
   },
   "scripts": {
     "test": "node test"
@@ -22,7 +22,7 @@
     "contract",
     "icons"
   ],
-  "author": "Dan Finlay <dan@danfinlay.com>",
+  "author": "Julian Yap <julianokyap@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ubiq/ubq-contract-metadata/issues"
