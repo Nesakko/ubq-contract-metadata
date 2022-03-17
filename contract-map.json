@@ -83,6 +83,14 @@
     "symbol": "FREAK",
     "decimals": 9
   },
+  "0x81f1a6e026d49c2260a8D6D8e14Bca1628c1Df43": {
+    "name": "nCeption",
+    "logo": "nCeption.png",
+    "erc20": false,
+    "erc721": true,
+    "symbol": "N",
+    "decimals": 0
+  },
   "0x7d01b0cA9da2293Ba0986C8Ad39bF54f8F450D52": {
     "name": "Nothing",
     "logo": "nothing.png",
